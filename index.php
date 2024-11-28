@@ -14,6 +14,7 @@
   <div class="container-fluid" style="background-color: #752454; text-align: center; padding:5px
   ;">
     <h1 style="color: white;">Bienvenidos a ITSAO</h1>
+    <h1 style="color: white;">Leonardo García Mejía</h1>
     <video autoplay muted loop controls width="700">
         <source src="Cliente/img/vid1.mp4" type="video/mp4">
         Tu navegador no soporta la etiqueta de video.
